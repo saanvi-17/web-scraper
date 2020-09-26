@@ -10,3 +10,22 @@ The data can be saved in a .csv/.json/.xml file and further exploratory data ana
 
 
 ![image](https://user-images.githubusercontent.com/62648110/94331473-4ac3d680-ffea-11ea-8dfb-fff3ac433b2c.png)
+
+# Steps involved 
+1. Install the given python libraries.
+- pip install Scrapy
+2. open the terminal and write the following lines of code
+- scrapy startproject quote
+- cd quote
+3. after you're done with the code, use the crawler
+- scrapy crawl quotes
+4. to save the scraped data in a .csv/.json/.xml
+- scrapy crawl quotes -o items.csv
+
+# Screenshots
+
+### Terminal
+
+![image](https://user-images.githubusercontent.com/62648110/94331615-91fe9700-ffeb-11ea-8b53-673c3a236cd0.png)
+
+### .csv file
