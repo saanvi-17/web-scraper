@@ -29,3 +29,5 @@ The data can be saved in a .csv/.json/.xml file and further exploratory data ana
 ![image](https://user-images.githubusercontent.com/62648110/94331615-91fe9700-ffeb-11ea-8b53-673c3a236cd0.png)
 
 ### .csv file
+
+![image](https://user-images.githubusercontent.com/62648110/94331637-e0ac3100-ffeb-11ea-990f-f0968dd5880f.png)
